@@ -61,8 +61,7 @@ Para solucionar esses problemas, este projeto propõe o desenvolvimento de um ap
 ## 3. Casos de Uso e Requisitos
 
 ### 3.1 Diagrama de Casos de Uso
-[Inserir diagrama]
-
+<img width="566" alt="Captura de tela 2025-04-02 213203" src="https://github.com/user-attachments/assets/fb7bbb11-6510-4add-9625-b14103587208" />
 ### 3.2 Especificação do Cenário de Caso de Uso (opcional)
 | Atributo         | Descrição |
 |-----------------|------------|
